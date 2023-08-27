@@ -1,4 +1,4 @@
-# MLFA | AI42001
+# AI42001
 
 Taught by Prof Jiaul and Prof Manjira 
 
