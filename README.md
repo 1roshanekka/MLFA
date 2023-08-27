@@ -2,4 +2,4 @@
 
 Taught by Prof Jiaul and Prof Manjira 
 
-COEAI
+COEAI, IIT Kharagour
